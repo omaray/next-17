@@ -33,7 +33,7 @@ Allow you to call our Cloud APIs programmatically; below are the repositories on
 | Ruby     | [google-cloud-ruby](https://goo.gl/VT7Svp)   |
 
 ## Other Developer Tools
-And here is a list of other developer tools we touched on:
+And here is a list of other developer tools we mentioned or showed:
 
 - [Container Buidler](https://goo.gl/gGoMaZ)
 - [Container Registry](https://goo.gl/61kkqU)

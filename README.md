@@ -41,3 +41,6 @@ And here is a list of other developer tools we mentioned or showed:
 - [Cloud Tools for Eclipse](https://goo.gl/bRyRpJ)
 - [Cloud Tools for Visual Studio](https://goo.gl/bVRhKQ)
 - [Cloud Tools for PowerShell](https://goo.gl/6kBtxD)
+
+## General Feedback
+If you'd like to give overall feedback about Google Cloud Platform, feel free to [fill out this form](https://goo.gl/DqkFjm).

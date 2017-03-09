@@ -38,3 +38,6 @@ And here is a list of other developer tools we touched on:
 - [Container Buidler](https://goo.gl/gGoMaZ)
 - [Container Registry](https://goo.gl/61kkqU)
 - [Cloud Tools for IntelliJ](https://goo.gl/ZcBiP9)
+- [Cloud Tools for Eclipse](https://goo.gl/bRyRpJ)
+- [Cloud Tools for Visual Studio](https://goo.gl/bVRhKQ)
+- [Cloud Tools for PowerShell](https://goo.gl/6kBtxD)

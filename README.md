@@ -18,6 +18,7 @@ And we also touched upon two other great products during the demo:
 A set of tools and CLIs that allow you to also manage cloud resources, deploy apps, create VMs, etc.
 
 - [Cloud SDK Documentation](https://goo.gl/hYuIMH)
+- [gcloud Interactive Shell](https://goo.gl/bgS8f4)
 
 ## Cloud Client Libraries
 Allow you to call our Cloud APIs programmatically; below are the repositories on GitHub:

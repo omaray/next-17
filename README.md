@@ -3,6 +3,8 @@
   <img src="https://cloud.githubusercontent.com/assets/6609430/23634197/e00b91ce-027d-11e7-8316-8842ae496529.png"/>
 </p>
 
+[YouTube Video](https://www.youtube.com/watch?v=ykzCUFwHppI)
+
 ## Cloud Shell
 Allows you to run scripts, code, and manage your Cloud resources directly from a browser (no installation).
 
